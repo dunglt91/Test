@@ -1,0 +1,12 @@
+build-common-plugin.xml
+build-common-plugins.xml
+build-common.xml
+build.properties
+build.xml
+clients/
+copyright.txt
+layouttpl/
+lib/
+misc/
+tools/
+webs/
